@@ -1,0 +1,11 @@
+# Archives / binaries
+*.zip
+*.jar
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
