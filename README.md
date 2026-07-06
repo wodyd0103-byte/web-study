@@ -1,3 +1,5 @@
+> 📦 **이 저장소는 [java-c-study](https://github.com/wodyd0103-byte/java-c-study)의 `html-tagtable-*` 폴더로 통합되었습니다.** 최신 내용은 그쪽을 참고하세요. (이 저장소는 보관 처리됨)
+
 # Web Study 🌐
 
 하이테크 직업교육과정에서 진행한 **프론트엔드(HTML/CSS) 실습 모음**입니다.
